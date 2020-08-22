@@ -1,0 +1,1 @@
+in chapter 1 you will study about the basics of git and git hub
